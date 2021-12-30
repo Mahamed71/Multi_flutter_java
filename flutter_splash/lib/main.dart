@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: color,
       ),
-      home: const MyHomePage(title: 'Koko'),
+      home: const MyHomePage(title: 'KokoREko'),
     );
   }
 }
